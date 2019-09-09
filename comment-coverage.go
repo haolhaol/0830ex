@@ -1,6 +1,7 @@
 // Copyright (c) 2012-2018 Ugorji Nwoke. All rights reserved.
 // Use of this source code is governed by a MIT license found in the LICENSE file.
 
+//
 // codecgen generates static implementations of the encoder and decoder functions
 // for a given type, bypassing reflection, and giving some performance benefits in terms of
 // wall and cpu time, and memory usage.
